@@ -24,7 +24,7 @@ network:
 -------------------------------------------------
 sudo netplan apply
 
-### 2.lalu verifikasi 
+### 2. lalu verifikasi 
 '''bash
 
 ifconfig
