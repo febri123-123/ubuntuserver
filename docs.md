@@ -23,5 +23,8 @@ network:
 -------------------------------------------------
 sudo netplan apply
 
+lalu verifikasi 
+
+
 ifconfig
  
