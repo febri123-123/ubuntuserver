@@ -14,7 +14,6 @@ cd /etc/netplan/nano 00-installer-config.yaml
 ```
 
 ```bash
-#This is the network config written by 'subiquity'
 
 network:
   version: 2
