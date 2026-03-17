@@ -1,3 +1,11 @@
+# Dokumentasi Konfigurasi Network Ubuntu 20.04
+
+Dokumentasi ini berisi langkah-langkah merubah konfigurasi network 
+menggunakan Netplan.
+
+### 1. Masuk sebagai Root
+```bash
+
 sudo su
 
 cd /etc/netplan/nano 00-installer-config.yaml
