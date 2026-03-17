@@ -24,8 +24,11 @@ network:
 -------------------------------------------------
 sudo netplan apply
 
-lalu verifikasi 
+### 2.lalu verifikasi 
 
 
 ifconfig
  
+atau
+
+ip a
