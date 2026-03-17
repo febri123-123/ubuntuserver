@@ -2,7 +2,7 @@ sudo su
 
 cd /etc/netplan/nano 00-installer-config.yaml
 ------------------------------------------------
-# This is the network config written by 'subiquity'
+This is the network config written by 'subiquity'
 network:
   ethernets:
     enp0s3:
