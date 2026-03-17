@@ -1,6 +1,7 @@
-# Dokumentasi Konfigurasi Network Ubuntu 20.04
+# Dokumentasi Konfigurasi Network Ubuntu 24.04
 
-Dokumentasi ini berisi langkah-langkah merubah konfigurasi network 
+Dokumentasi ini berisi langkah-langkah merubah dan menambah konfigurasi 
+network 
 menggunakan Netplan.
 
 ### 1. Masuk sebagai Root
