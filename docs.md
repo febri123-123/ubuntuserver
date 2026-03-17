@@ -23,13 +23,13 @@ network:
   version: 2
 -------------------------------------------------
 sudo netplan apply
-'''
+±±±
 ### 2. lalu verifikasi 
-'''bash
+±±±bash
 
 ifconfig
  
 atau
 
 ip a
-'''
+±±±
